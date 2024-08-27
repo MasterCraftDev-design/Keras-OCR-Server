@@ -139,7 +139,7 @@ dependencies:
       - itsdangerous==2.1.2
       - keras==2.13.1
       - keras-applications==1.0.8
-      - keras-ocr==0.0.0
+      - keras-ocr==0.9.3
       - kiwisolver==1.4.4
       - lazy-loader==0.3
       - libclang==16.0.6
